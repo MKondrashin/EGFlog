@@ -8,5 +8,7 @@
  * @author Maxim
  */
 public class TextProcessor {
+    int a;
+    int b;
     
 }
